@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meet Desai
-- 👀 I’m interested in development and Testing
+- 👀 I’m interested in DevOps and MlOps
 - 🌱 I’m currently job seeker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me desaimeet2000@gmail.com
